@@ -38,6 +38,6 @@ python file_search.py --index /path/to/directory
 ```bash
 python file_search.py --search "filename query" [--limit N]
 ```
-- --search or -s: Query string to search for
+- ```bash--search``` or ```-s```: Query string to search for
 
 ```bash--limit``` or ```bash-l```: (Optional) Max number of results to return (default: 10)
