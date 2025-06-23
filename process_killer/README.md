@@ -6,7 +6,7 @@
 
 - Save as process_killer.py
 - Run in terminal/cmd:
-- 
+
 ```bash
 python process_killer.py
 ```
