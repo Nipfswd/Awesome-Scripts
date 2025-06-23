@@ -22,6 +22,7 @@ Make sure you have [`psutil`](https://pypi.org/project/psutil/) installed:
 
 ```bash
 pip install psutil
+```
 
 Run the script:
 
