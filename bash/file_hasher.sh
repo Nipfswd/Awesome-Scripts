@@ -2,7 +2,7 @@
 
 # ============================
 # 🔒 SUPER PRO MAX FILE HASHER
-# Author: ChatGPT + You
+# Author: Noah.J
 # ============================
 
 LOGFILE="./file_hasher.log"
