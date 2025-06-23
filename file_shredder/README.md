@@ -30,4 +30,6 @@ python shredder.py <file1> [file2 ...]
 
 Example:
 
+```bash
 python shredder.py secret.txt confidential.docx
+```
