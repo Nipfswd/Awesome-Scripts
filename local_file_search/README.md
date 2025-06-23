@@ -40,4 +40,4 @@ python file_search.py --search "filename query" [--limit N]
 ```
 - ```bash--search``` or ```-s```: Query string to search for
 
-```bash--limit``` or ```bash-l```: (Optional) Max number of results to return (default: 10)
+- ```bash--limit``` or ```bash-l```: (Optional) Max number of results to return (default: 10)
