@@ -1,0 +1,1 @@
+Ah, don't we all love Go?
