@@ -1,0 +1,20 @@
+HAI 1.2
+I HAS A FORTUNES ITZ A NOOB
+FORTUNES R SMOOSH "You will find joy in small things." AN "A surprise gift is on its way." AN "Patience brings good fortune." AN "Adventure awaits you." AN "Your kindness will be repaid." MKAY
+
+I HAS A COUNT ITZ 5
+I HAS A RAND ITZ A NOOB
+
+HOW IZ I RANDOMFORTUNE YR COUNT
+    I HAS A INDEX
+    INDEX R MOD OF (RANDOM COUNT) AN COUNT
+    VISIBLE "Your fortune: " AN FORTUNES'Z INDEX
+IF U SAY SO
+
+I HAS A RANDOM ITZ 0
+IM IN YR LOOP UPPIN YR RANDOM TIL BOTH SAEM RANDOM AN 1
+    RANDOM R SUM OF RANDOM AN 1
+IM OUTTA YR LOOP
+
+I IZ RANDOMFORTUNE YR COUNT MKAY
+KTHXBYE
